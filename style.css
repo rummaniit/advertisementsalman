@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+.all{
+    margin-top: 15px;
+}
+.container{
+    width: 550px;
+    margin: 0 auto;
+    position: relative;
+}
+.container>img{
+    width: 100%;
+}
+.container>h2,h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+}
+.container>p{
+    font-size: 30px;
+    font-weight: 400;
+    color: white;
+}
+.price{
+    color: white;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
+.btnimg{ 
+    width: 500px;
+    height: 60px;
+    color: white;
+    font-size: 25px;
+    font-weight: 400;
+    border-radius: 20px;
+}
+.modalbtn{
+    width: 200px;
+    margin: 10px;
+    height: 58px;
+}
+.allmodal{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
